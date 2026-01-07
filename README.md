@@ -218,7 +218,15 @@ demo.launch(server_port=7861)  # veya 7862, 7863...
 
 > **Not**: Düşük performans nedeniyle bazı trafik işaretleri tespit edilemeyebilir. Model daha fazla veri ve eğitim ile geliştirilebilir.
 
-## 📁 Proje Yapısı
+## � Veri Seti
+
+Bu projede kullanılan trafik işareti tanıma veri seti Kaggle'dan edinilebilir:
+
+🔗 **Dataset Linki**: [Traffic Sign Recognition YOLOv8 Dataset](https://www.kaggle.com/datasets/lara311/traffic-sign-recognition-yolov8?resource=download)
+
+> **Not**: Dataset bu repository'de bulunmamaktadır. Yukarıdaki linkten indirip `dataset/` klasörüne yerleştirmeniz gerekmektedir.
+
+## �📁 Proje Yapısı
 
 ```
 modelegtm/
