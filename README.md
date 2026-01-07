@@ -342,7 +342,7 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 modeli için
-- [kaggle]([https://roboflow.com/](https://www.kaggle.com/datasets/lara311/traffic-sign-recognition-yolov8?resource=download)) - Veri seti için
+- [kaggle]((https://www.kaggle.com/datasets/lara311/traffic-sign-recognition-yolov8?resource=download)) - Veri seti için
 - [Gradio](https://gradio.app/) - Harika arayüz kütüphanesi için
 
 ---
