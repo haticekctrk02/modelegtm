@@ -340,14 +340,6 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
 5. Pull Request oluşturun
 
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için:
-
-- 📧 Email: [email@example.com](kocaturkhatice690@gmail.com)
-
-
-## 🙏 Teşekkürler
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 modeli için
 - [Roboflow](https://roboflow.com/) - Veri seti için
