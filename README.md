@@ -301,133 +301,7 @@ Model: YOLOv8n
 Epochs: 50
 Batch Size: 16
 Image Size: 640x640
-<div align="center">
 
-### 🤝 Katkılarınız Değerli!
-
-Projeye katkıda bulunmak için:
-
-</div>
-
-```bash
-# 1️⃣ Projeyi fork edin
-# 2️⃣ Feature branch oluşturun
-git checkout -b feature/AmazingFeature
-
-# 3️⃣ Değişikliklerinizi commit edin
----
-
-## 📞 İletişim & Destek
-
-<div align="center">
-
-### 💬 Bize Ulaşın
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📧 Email
-[email@example.com](mailto:email@example.com)
-
-</td>
-<td align="center" width="33%">
-
-### 🐛 Issues
-[GitHub Issues](https://github.com/kullaniciadi/trafik-isareti-tanima/issues)
-
-</td>
-<td align="center" width="33%">
-
-### 💬 Discussions
-[GitHub Discussions](https://github.com/kullaniciadi/trafik-isareti-tanima/discussions)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🙏 Teşekkürler
-
-<div align="center">
-
-Bu proje aşağıdaki harika açık kaynak projeler sayesinde mümkün oldu:
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<b>Ultralytics</b>
-<br>
-<sub>YOLOv8 Framework</sub>
-<br><br>
-⭐️
-</td>
-<td align="center" width="25%">
-<br>
-<b>Gradio</b>
-<br>
-<sub>Web Arayüzü</sub>
-<br><br>
-⭐️
-</td>
-<td align="center" width="25%">
-<br>
-<b>Roboflow</b>
-<br>
-<sub>Veri Seti</sub>
-<br><br>
-⭐️
-</td>
-<td align="center" width="25%">
-<br>
-<b>PyTorch</b>
-<br>
-<sub>Deep Learning</sub>
-<br><br>
-⭐️
-</td>
-</tr>
-</table>
-
----
-
-### 🌟 Projeyi Destekleyin
-
-<p align="center">
-  <a href="https://github.com/kullaniciadi/trafik-isareti-tanima">
-    <img src="https://img.shields.io/github/stars/kullaniciadi/trafik-isareti-tanima?style=social" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/kullaniciadi/trafik-isareti-tanima">
-    <img src="https://img.shields.io/github/forks/kullaniciadi/trafik-isareti-tanima?style=social" alt="GitHub forks">
-  </a>
-</p>
-
-<p align="center">
-  <strong>⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!</strong>
-  <br>
-  <sub>Her yıldız bizi motive ediyor! 💪</sub>
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/kullaniciadi">@kullaniciadi</a>
-  <br>
-  <sub>© 2026 Trafik İşareti Tanıma Sistemi</sub>
-</p>
-
-</div>
-
-> 🌟 **Veri Kaynağı**: [Roboflow Traffic Sign Dataset](https://roboflow.com/
-### Port 7860 Kullanımda Hatası
-
-```bash
-# Çalışan uygulamayı durdurun veya app.py'de portu değiştirin
-demo.launch(server_port=7861)  # Farklı bir port kullanın
 ```
 
 ### Model Yüklenmiyor
@@ -470,8 +344,8 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 
 Sorularınız veya önerileriniz için:
 
-- 📧 Email: [email@example.com](mailto:email@example.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/kullaniciadi/trafik-isareti-tanima/issues)
+- 📧 Email: [email@example.com](kocaturkhatice690@gmail.com)
+
 
 ## 🙏 Teşekkürler
 
